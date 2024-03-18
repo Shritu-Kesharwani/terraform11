@@ -93,4 +93,4 @@ resource "aws_instance" "terraEC2" {
     Name = "terraEC2"
   }
   
-}E:\DevOps\terraform_PracticeE
+}
